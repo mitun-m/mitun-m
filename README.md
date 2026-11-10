@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mitun 👋
 
-<!--
-**mitun-m/mitun-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Computer Science and Engineering student at Nandha Engineering College, Erode, Tamil Nadu. I'm passionate about technology and enjoy turning ideas into working projects, from web applications to hardware systems that respond to the real world.
 
-Here are some ideas to get you started:
+I believe the best way to learn is by building. I'm developing my skills in Python and C, working on IoT projects, and building web projects with my team. I'm also learning to use AI tools effectively, and I'm an aspiring AI engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python · C · HTML/CSS · IoT · Git and GitHub
+
+## Goal
+My goal is to become an AI engineer who builds useful, real-world products. I'm working towards it by learning consistently and improving a little every day.
+
+## Projects
+My current work is in my pinned repositories above.
