@@ -12,4 +12,4 @@ Python · C · HTML/CSS · IoT · Git and GitHub
 My goal is to become an AI engineer who builds useful, real-world products. I'm working towards it by learning consistently and improving a little every day.
 
 ## Projects
-My current work is in my pinned repositories above.
+My current work is in my pinned repositories below.
